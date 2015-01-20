@@ -1,0 +1,53 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+
+# Site settings
+title: "Ahir Danışmanlık"
+description: > # this means to ignore newlines until "email:"
+   Kurumsal Blog Sayfası
+
+email: info@ahir.com.tr
+#blog logo
+logo: "/assets/images/ahir_logo.jpg"
+# blog cover
+cover: "/assets/images/cover.png"
+
+name: 'Ahir Danışmanlık'
+author: 'Ahir Danışmanlık'
+author_image: "/assets/images/ahir_logo.jpg"
+
+paginate:	5
+
+url: "http://blog.ahir.com.tr" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/ahirdanismanlik
+    desc: Twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: //www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/ahirarge
+    desc:	GitHub
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
