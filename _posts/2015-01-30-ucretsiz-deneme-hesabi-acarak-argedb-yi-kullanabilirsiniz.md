@@ -9,7 +9,7 @@ image: /assets/article_images/argedb.jpg
 # Ücretsiz Deneme Hesabı Açarak Argedb'yi Kullanabilirsiniz!
 
 
-Bir önceki blog yazımızda ([Argedb Kullanım İstatistikleri](2015/01/25/argedb-kullanim-istatistikleri.html)) güzel haberler vereceğimizden bahsetmiştik. Bugün ise uzun bir süredir üzerinde çalıştığımız güncellemeleri tamamlamış bulunuyoruz. 
+Bir önceki blog yazımızda ([Argedb Kullanım İstatistikleri](http://blog.ahir.com.tr/2015/01/25/argedb-kullanim-istatistikleri.html)) güzel haberler vereceğimizden bahsetmiştik. Bugün ise uzun bir süredir üzerinde çalıştığımız güncellemeleri tamamlamış bulunuyoruz. 
 
 **Argedb** artık **5.0** sürümüne ulaşmıştır. İçerisinde birçok yapısal değişiklikliğin yanı sıra, tespit edilen hataların giderilmesini de barındırmaktadır. Ayrıca **2014** yılı içerisinde **Argedb** altyapısı ile düzenlenen etkinliklerden ([Referanslarımız](http://argedb.com/#references)) elde ettiğimiz veriler ışığında, tasarımlarımızı ***kullanıcı dostu*** bir hale getirmiş bulunuyoruz.
 
