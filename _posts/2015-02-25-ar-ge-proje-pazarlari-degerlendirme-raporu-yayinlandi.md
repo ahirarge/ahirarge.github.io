@@ -12,6 +12,6 @@ Ar-Ge proje pazarları ülkemizde, 2002 yılından itibaren yaygınlaşmaya  ba�
 
 13 yıldır düzenlenmiş olan yaklaşık 100 ar-ge proje pazarının genel  değerlendirmesi yapılmış ve Şubat 2015 itibariyle yayınlanmıştır.
 
-Değerlendirme raporumuza ulaşmak için [buraya](/assets/files/subat-2015-app-raporu.pdf) tıklayınız.
+Değerlendirme raporumuza ulaşmak için tıklayınız;
 
 [Şubat 2015 APP Raporu](/assets/files/subat-2015-app-raporu.pdf)
