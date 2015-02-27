@@ -3,7 +3,6 @@ layout: post
 title:  "Merhaba Dünya!"
 date:   2015-01-21 14:34:25
 tags: "blog, merhaba, dünya"
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
 
 # Merhaba Dünya!

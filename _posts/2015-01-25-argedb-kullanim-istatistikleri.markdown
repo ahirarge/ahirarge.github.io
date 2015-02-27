@@ -3,7 +3,6 @@ layout: post
 title:  "Argedb Kullanım İstatistikleri"
 date:   2015-01-25 15:00:00
 tags: "blog, merhaba, dünya"
-image: /assets/article_images/argedb.jpg
 ---
 
 # Argedb Kullanım İstatistikleri

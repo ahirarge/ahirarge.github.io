@@ -3,7 +3,6 @@ layout: post
 title:  "Argedb İçin İstatistik Özelliği Eklendi"
 date:   2015-02-05 15:00:00
 tags: "argedb, proje pazarı, bilimsel, yönetim, otomasyon, istatistik, grafik, türler"
-image: /assets/article_images/argedb.jpg
 ---
 
 # Argedb İçin İstatistik Özelliği Eklendi

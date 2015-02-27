@@ -3,7 +3,6 @@ layout: post
 title:  "Danışmanlığını Yaptığımız Firmalar Finale Kaldı"
 date:   2015-02-13 15:00:00
 tags: "ahir, ar-ge, danışmanlık, kosgeb, ödül, kromel, kosgeb ödülü, final, başarılı kobi, inovatif kobi, ışıl mühendislik, başarılı kobi, inovatif kobi, 2014, ödül töreni"
-image: /assets/article_images/girisimcilik.jpg
 ---
 
 # Danışmanlığını Yaptığımız Firmalar Finale Kaldı

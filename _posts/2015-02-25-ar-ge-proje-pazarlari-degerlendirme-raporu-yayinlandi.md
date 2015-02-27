@@ -3,7 +3,6 @@ layout: post
 title:  "Ar-Ge Proje Pazarları Değerlendirme Raporu Yayınlandı"
 date:   2015-02-25 16:00:00
 tags: "ahir, ar-ge, danışmanlık, ar-ge, proje pazarı, değerlendirme raporu, proje yarışması, uzman görüşü, öneriler"
-image: /assets/article_images/ahir.jpg
 ---
 
 # Ar-Ge Proje Pazarları Değerlendirme Raporu Yayınlandı

@@ -3,7 +3,6 @@ layout: post
 title:  "Argedb İçin Dışarı Aktarma Artık Kullanılabilir"
 date:   2015-02-05 15:00:00
 tags: "argedb, proje pazarı, bilimsel, yönetim, otomasyon, dışarı aktarma, pdf, excel, word"
-image: /assets/article_images/argedb.jpg
 ---
 
 # Argedb İçin Dışarı Aktarma Artık Kullanılabilir

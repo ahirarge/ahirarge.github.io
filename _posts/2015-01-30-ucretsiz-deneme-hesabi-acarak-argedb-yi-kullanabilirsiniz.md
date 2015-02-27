@@ -3,7 +3,6 @@ layout: post
 title:  "Ücretsiz Deneme Hesabı Açarak Argedb'yi Kullanabilirsiniz!"
 date:   2015-01-30 15:00:00
 tags: "argedb, ücretsiz, deneme, hesabı, demo, etkinlik, proje pazarı, bilimsel, yönetim, otomasyon"
-image: /assets/article_images/argedb.jpg
 ---
 
 # Ücretsiz Deneme Hesabı Açarak Argedb'yi Kullanabilirsiniz!
