@@ -2,7 +2,7 @@
 layout: post
 title:  "Ahir Tech Talk Gerçekleştirildi"
 date:   2015-03-02 10:00:00
-tags: "ahir, ar-ge, danışmanlık, ar-ge, teknolojik, ürün, yatırım, destek programı, hibe, proje"
+tags: "ahir, ar-ge, danışmanlık, tech, talk, sakarya, teknokent, php, laravel, ruby, ruby on rails, gulp"
 ---
 
 # Ahir Tech Talk Gerçekleştirildi
